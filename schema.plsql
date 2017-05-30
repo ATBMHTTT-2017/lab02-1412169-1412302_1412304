@@ -32,12 +32,12 @@ insert into phongban values ('PH204', 'Phong thuc hien de an', null, TO_DATE ('0
 --CNHP
 insert into phongban values ('PH301', 'Phong ke hoach', null, TO_DATE ('01/01/2017', 'dd/mm/yyyy'), 10, 'CNHP');
 insert into phongban values ('PH302', 'Phong ke toan', null, TO_DATE ('01/01/2017', 'dd/mm/yyyy'), 10, 'CNHP');
-insert into phongban values ('PH303', 'Phong nha su', null, TO_DATE ('01/01/2017', 'dd/mm/yyyy'), 10, 'CNHP');
+insert into phongban values ('PH303', 'Phong nhan su', null, TO_DATE ('01/01/2017', 'dd/mm/yyyy'), 10, 'CNHP');
 
 --CNQN
 insert into phongban values ('PH401', 'Phong ke hoach', null, TO_DATE ('01/01/2017', 'dd/mm/yyyy'), 10, 'CNQN');
 insert into phongban values ('PH402', 'Phong ke toan', null, TO_DATE ('01/01/2017', 'dd/mm/yyyy'), 10, 'CNQN');
-insert into phongban values ('PH403', 'Phong nha su', null, TO_DATE ('01/01/2017', 'dd/mm/yyyy'), 10, 'CNQN');
+insert into phongban values ('PH403', 'Phong nhan su', null, TO_DATE ('01/01/2017', 'dd/mm/yyyy'), 10, 'CNQN');
 
 --INSERT NHAN VIEN
 EXECUTE THEM_NV ('NV000', 'Huynh Tong Trach', 'Quan TQ', '01678269999', 'httrach@gmail.com', null, null, '10000000');
