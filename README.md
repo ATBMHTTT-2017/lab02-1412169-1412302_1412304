@@ -21,7 +21,7 @@ Yêu cầu **bắt buộc**
 * [ ] Viết script tạo cấu trúc cơ sở dữ liệu (**1412169**)
 * [ ] Viết script thêm dữ liệu (**1412302**)
 * [ ] Tạo tài khoản cho các nhân viên trong bảng Nhân Viên. Tên tài khoản trùng với mã nhân viên. Tạo ít nhất 5 tài khoản cho mỗi vị trí: trưởng dự án, trưởng phòng, trưởng chi nhánh, nhân viên, giám đốc và ít nhất 5 dòng cho các bảng dữ liệu còn lại. (**1412304**)
-* [ ] Tạo các role cho các vị trí phù hợp cho công ty. (**1412169**)
+* [ ] Tạo các role cho các vị trí phù hợp cho công ty. (**1412304**)
 * [ ] Giải pháp mã hóa thông tin lương để chỉ nhân viên được phép xem lương của mình. (**1412302**)
 * [ ] Xây dựng giải pháp để nhân viên và trưởng dự án xác định thông tin lương có đúng là do trưởng dự án thiết lập không. (**1412304**)
 * [ ] Chỉ trưởng dự án được phép xem và cập nhật thông tin chi tiêu của dự án của mình. (**1412169**)
