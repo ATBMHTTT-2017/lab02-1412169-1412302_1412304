@@ -166,3 +166,6 @@ security_1
 GRANT execute on Xemluong to GiamDoc, Truong_CN_CTY, Truong_Phong_CTY, Truong_DA_CTY, NV_BT_CTY; -- Gán quyền thực thi store XemLuong cho các role
 set serveroutput on -- Hiện kết quả ra màn hình console
 execute sys_bt2_demo.XemLuong(); --Câu lệnh thực thi store procedure XemLuong
+
+security_2
+grant execute on verify to NV_BT_CTY;
