@@ -5,7 +5,7 @@
 Thành viên:
 * [X] **1412169** Hồ Thảo Hiền (HoThaoHien)
 * [X] **1412302** Huỳnh Công Lợi (congloi1996)
-* [X] **1412304** Trưởng Hữu Luân ()
+* [X] **1412304** Trưởng Hữu Luân (TruongLuan1996)
 
 ## Yêu cầu
 
